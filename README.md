@@ -1,1 +1,1 @@
-# ProjectA
+This project is a robust music management application developed using C# with .NET WPF and SQL Server. The app enables users to add new songs from their PC, remove songs, and play songs seamlessly. Users can also create and manage playlists by adding or removing songs. Additional features include the ability to stop song playback and check the duration of songs. This comprehensive app provides an intuitive interface for managing and enjoying your music library efficiently.
